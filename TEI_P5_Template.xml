@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+   xml:id="xxxxxxxxxx"> <!-- replace xxxxxxxxxx by file id -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from
+                    <!-- sender --> to
+                    <!-- recipient-->,
+                    <!-- date -->: A machine-readable transcription</title>
+                <author>
+                    <!-- sender -->
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        <!-- your name -->
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        <!-- your name -->
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        <!-- your name -->
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+            <publicationStmt>
+                <publisher>Leiden University</publisher>
+                <pubPlace>Leiden, Netherlands</pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    <!-- file ID -->
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p>&#xA9; Copyright  <!-- current year -->, Leiden University</p>
+                </availability>
+                <date> <!-- current year --></date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Letter from
+                            <!-- sender --> to
+                            <!-- recipient-->,
+                            <!-- date -->
+                        </title>
+                        <author>
+                       <!-- sender -->
+                        </author>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Leiden University</publisher>
+                        <idno type="callNo">
+                            
+                            <!-- library callnumber -->
+                        </idno>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the
+                    <!-- current_academic_year_expressed as 20..-20.. -->
+                    <!-- name_of_course --> course, Book and Digital Media Studies, Leiden University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="dut">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    This letter contains a request from Jan Asser to Tadema to publish his translation of Dante's De Monarchia, either for the University Library or independently.<!-- summary of contents -->
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            Den Haag
+                        </placeName>
+                        <date when="1921-09-28">
+                            28./9, 1921
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>Tadema</persName><!-- recipient's name, using <persName> or <orgName> element -->
+                        </addrLine>
+                        <addrLine>
+                            <!-- recipient's address (add <addrLine>s as required) -->
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Hoog Geachte heer Tadema<!-- opening salutation -->
+                    </salute>
+                </opener>
+                <p>
+
+                    Even kom ik weder tot U, sinds<lb/>
+                    langen jaren. Mij herinnerende<lb/>
+                    den tijd, zoo gezellig soms door<lb/>
+                    gebracht bij Dr Beckman, en hoe<lb/>
+                    U mij toen hebt verteld dat<lb/>
+                    zoowel mijn Vaders boeken als die<lb/>
+                    van mijn broer Louis bij U waren<lb/>
+                    verschenen, neem ik de vrijheid U<lb/>
+                    te vragen, of Ge U zoudt<lb/>
+                    willen ontfermen over een vertaling<lb/>
+                    van Dante's <title>„De Monarchia"</title>, die<lb/>
+                    ik onder leiding van <unclear reason="illegible" cert="medium">Guarnieris</unclear><lb/>
+                    heb trachten te maken .-. <pb/>
+                    
+                    Het is natuurlijk werk, <lb/>
+                    van een beginneling, en preten <lb/>
+                    deert niets anders; maar ik <lb/>
+                    mag U zeker wel vertellen <lb/>
+                    dat Dr van Sachtelen, wien <lb/>
+                    ik het zond, omdat ik gaarne <lb/>
+                    iets wenschte te leveren voor <lb/>
+                    het groote publiek van de <lb/>
+                    Wereldbibliotheek mij schreef: <lb/>
+                    „Ofschoon ik het origineel <lb/>
+                    niet bij de hand had om te <lb/>
+                    kunnen vergelijken, kreeg ik toch <lb/>
+                    den indruk dat de vertaling <lb/>
+                    op zichzelf uitmuntend is. <lb/>
+                    Maar tevens werd ik beves <lb/>
+                    tigd in mijn mening dat dit <lb/>
+                    werk voor ons niet geschikt <pb/>
+                    
+                    is; het heeft voor het groote <lb/>
+                    publiek te weinig aan <lb/>
+                    trekkelijks".-. <lb/>
+                    Er moet nog een <lb/>
+                    korte inleiding bij, en aantee <lb/>
+                    keningen. Zou ik dit misschien <lb/>
+                    mogen doen voor de Volksuniver <lb/>
+                    siteitsbibliotheek, of zoudt U <lb/>
+                    misschien, als U het daar- <lb/>
+                    voor om dezelfden reden niet <lb/>
+                    geschikt vindt, het apart <lb/>
+                    willen uitgeven? 
+                    
+                     <!-- text of letter -->
+                </p>
+                <closer>
+                    <salute>
+                        Met de meeste <lb/>hoogachting en beleefde groeten, <!-- closing salutation -->
+                    </salute>
+                    <salute>Uw <unclear reason="illegible">[...]</unclear>dr</salute>
+                    <signed>Jan Asser</signed><signed/>
+                    <seg>
+                        <!-- post scriptum -->
+                    </seg>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
