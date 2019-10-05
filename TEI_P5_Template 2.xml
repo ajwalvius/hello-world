@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+    xml:id="JASS19210928"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Letter from Jan Asser to J.K. Tadema, 28 September 1921: A machine-readable transcription</title>
+                <author>
+                    Jan Asser
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        Anne Walvius
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Anne Walvius
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Anne Walvius
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                12,0 Kbytes <!-- file size in kBytes -->
+            </extent>
+            <publicationStmt>
+                <publisher>Leiden University</publisher>
+                <pubPlace>Leiden, Netherlands</pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    JASS19210928
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p>&#xA9; Copyright 2019, Leiden University</p>
+                </availability>
+                <date> 2019 </date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title> Letter from <persName key="JASS">Jan Asser</persName> to <persName>J.K. Tadema</persName>, <date when="1921-09-28">28 September 1921</date>
+                        </title>
+                        <author>
+                       <persName key="JASS">Jan Asser</persName>
+                        </author>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Leiden University</publisher>
+                        <idno type="callNo">
+                           UBL Boh C 224: Asser 1
+                        </idno>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the
+                    2019-2020 
+                    Digital Media Technology course, Book and Digital Media Studies, Leiden University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="dut">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>male</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                  This letter contains a request from Jan Asser to Tadema asking if he will publish his translation of Dante's De Monarchia, either for the University Library or independently.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName>
+                            Den Haag 
+                        </placeName>
+                        <date when="1921-09-28">
+                            28./9, 1921
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <persName>J.K. Tadema</persName><!-- recipient's name, using <persName> or <orgName> element -->
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Hoog Geachte heer Tadema,
+                    </salute>
+                </opener>
+                <p>
+
+                    Even kom ik weder tot U, sinds<lb/>
+                    langen jaren. Mij herinnerende<lb/>
+                    den tijd, zoo gezellig soms door<lb/>
+                    gebracht bij <persName><choice><abbr>Dr</abbr><expan>Dokter</expan></choice><unclear reason="illegible" cert="high"> Beckmans</unclear></persName>, en hoe<lb/>
+                    U mij toen hebt verteld dat<lb/>
+                    zoowel mijn Vaders boeken als die<lb/>
+                    van mijn broer <persName>Louis</persName> bij U waren<lb/>
+                    verschenen, neem ik de vrijheid U<lb/>
+                    te vragen, of Ge U zoudt<lb/>
+                    willen ontfermen over een vertaling<lb/>
+                    van <persName>Dante's</persName> <title> <foreign xml:lang="lat"></foreign>„De Monarchia"</title>,<note><p>De Monarchia is a work by Dante Alighieri composed in the years 1312-1313
+                    about the relationship between secular and religious authority.</p></note> die<lb/>
+                    ik onder leiding van <unclear reason="illegible" cert="medium">Guarnieris</unclear><lb/>
+                    heb trachten te maken .-. <pb/>
+                    
+                    Het is natuurlijk werk, <lb/>
+                    van een beginneling, en preten„ <lb/>
+                    deert niets anders; maar ik <lb/>
+                    mag U zeker wel vertellen <lb/>
+                    dat <persName><choice><abbr>Dr</abbr><expan>Dokter</expan></choice> van Suchtelen</persName><note><p>Nico van Suchtelen [1878-1949] started working in 1913 as an executive secretary for the publishing house Wereldbibliotheek. He became the director in 1932.</p></note> , wien <lb/>
+                    ik het zond, omdat ik gaarne <lb/>
+                    iets wenschte te leveren voor <lb/>
+                    het groote publiek van de <lb/>
+                    <orgName>Wereldbibliotheek</orgName><note><p>Wereldbibliotheek is a Dutch publishing house established in 1905.</p></note> mij schreef: <lb/>
+                    „Ofschoon ik het origineel <lb/>
+                    niet bij de hand had om te <lb/>
+                    kunnen vergelijken, kreeg ik toch <lb/>
+                    den indruk dat de vertaling <lb/>
+                    op zichzelf uitmuntend is. <lb/>
+                    Maar tevens werd ik beves„ <lb/>
+                    tigd in mijn mening dat dit <lb/>
+                    werk voor ons niet geschikt <pb/>
+                    
+                    is; het heeft voor het groote <lb/>
+                    publiek te weinig aan„ <lb/>
+                    trekkelijks".-. <lb/>
+                    Er moet nog een <lb/>
+                    korte inleiding bij, en aantee„ <lb/>
+                    keningen. Zou ik dit misschien <lb/>
+                    mogen doen voor de <orgName>Volksuniver <lb/>
+                    siteitsbibliotheek</orgName>, of zoudt U <lb/>
+                    misschien, als U het daar- <lb/>
+                    voor om dezelfden reden niet <lb/>
+                    geschikt vindt, het apart <lb/>
+                    willen uitgeven? 
+
+                </p>
+                <closer>
+                    <salute>
+                        Met de meeste <lb/>hoogachting en beleefde groeten, 
+                    </salute>
+                    <salute>Uw <gap reason="illegible" extent="3 letters"></gap> dr</salute>
+                    <signed>Jan Asser</signed> <address><addrLine>Den Haag</addrLine></address> <signed/>
+                   
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
